@@ -1,5 +1,5 @@
 ; chess.com rapid games for darinator
-; games after 2026-07-01 | 24 total | exported 2026-08-19 15:00 UTC
+; games after 2026-07-01 | 25 total | exported 2026-08-19 16:00 UTC
 
 [Event "Live Chess"]
 [Site "Chess.com"]
@@ -576,4 +576,28 @@
 [Link "https://www.chess.com/game/live/173187142688"]
 
 1. d4 {[%clk 0:09:56]} 1... d5 {[%clk 0:09:58.2]} 2. Nc3 {[%clk 0:09:54.4]} 2... Nf6 {[%clk 0:09:56.4]} 3. Bg5 {[%clk 0:09:51.9]} 3... Bf5 {[%clk 0:09:54.1]} 4. g3 {[%clk 0:09:46.4]} 4... h6 {[%clk 0:09:51.7]} 5. Bd2 {[%clk 0:09:42.7]} 5... Nc6 {[%clk 0:09:49.9]} 6. Bg2 {[%clk 0:09:41.5]} 6... Nxd4 {[%clk 0:09:47.9]} 7. e4 {[%clk 0:09:17.4]} 7... dxe4 {[%clk 0:09:43.8]} 8. Nge2 {[%clk 0:09:07.2]} 8... Nf3+ {[%clk 0:08:59.1]} 9. Bxf3 {[%clk 0:09:01.9]} 9... exf3 {[%clk 0:08:59]} 10. Ng1 {[%clk 0:08:55.4]} 10... e5 {[%clk 0:08:43.2]} 11. Nxf3 {[%clk 0:08:51.9]} 11... e4 {[%clk 0:08:36.2]} 12. Nh4 {[%clk 0:08:44.8]} 12... Bg4 {[%clk 0:08:31.9]} 13. Qc1 {[%clk 0:08:35.4]} 13... Bh3 {[%clk 0:08:10.5]} 14. Rg1 {[%clk 0:08:20.7]} 14... Bc5 {[%clk 0:07:23.7]} 15. Ng2 {[%clk 0:08:05.6]} 15... O-O {[%clk 0:06:48.7]} 16. Ne3 {[%clk 0:08:03.4]} 16... Ng4 {[%clk 0:06:30.3]} 17. Nxg4 {[%clk 0:07:52.9]} 17... Bxg4 {[%clk 0:06:27.8]} 18. Be3 {[%clk 0:07:47.2]} 18... Bb4 {[%clk 0:06:18.8]} 19. Qd2 {[%clk 0:07:35.8]} 19... Bxc3 {[%clk 0:05:43.3]} 20. Qxc3 {[%clk 0:07:33.9]} 20... Bf3 {[%clk 0:05:40.5]} 21. a4 {[%clk 0:07:24.4]} 21... c6 {[%clk 0:05:16]} 22. a5 {[%clk 0:07:19.5]} 22... a6 {[%clk 0:05:14.1]} 23. Ra4 {[%clk 0:07:17.7]} 23... b5 {[%clk 0:05:02.4]} 24. axb6 {[%clk 0:07:12.8]} 24... Qd1# {[%clk 0:04:52.7]} 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2026.08.19"]
+[Round "-"]
+[White "darinator"]
+[Black "update-22"]
+[Result "1-0"]
+[CurrentPosition "1Q2k2r/p2nbppp/3p1n2/1B6/3P1p1q/2N5/PPP3PP/R1BKR3 b k - 0 13"]
+[Timezone "UTC"]
+[ECO "C36"]
+[ECOUrl "https://www.chess.com/openings/Kings-Gambit-Accepted-Modern-Defense-4.exd5"]
+[UTCDate "2026.08.19"]
+[UTCTime "15:45:12"]
+[WhiteElo "1552"]
+[BlackElo "1518"]
+[TimeControl "600"]
+[Termination "darinator won by checkmate"]
+[StartTime "15:45:12"]
+[EndDate "2026.08.19"]
+[EndTime "15:48:07"]
+[Link "https://www.chess.com/game/live/173225188736"]
+
+1. e4 {[%clk 0:09:57.8]} 1... e5 {[%clk 0:09:59.8]} 2. f4 {[%clk 0:09:52.9]} 2... d5 {[%clk 0:09:58.9]} 3. exd5 {[%clk 0:09:45.2]} 3... exf4 {[%clk 0:09:56.4]} 4. Nf3 {[%clk 0:09:38.2]} 4... Bg4 {[%clk 0:09:53.8]} 5. Nc3 {[%clk 0:09:30.9]} 5... Bxf3 {[%clk 0:09:48]} 6. Qxf3 {[%clk 0:09:29.2]} 6... Bd6 {[%clk 0:09:43]} 7. d4 {[%clk 0:08:43.2]} 7... Qh4+ {[%clk 0:09:39.9]} 8. Kd1 {[%clk 0:08:30]} 8... Nf6 {[%clk 0:09:38.1]} 9. Bb5+ {[%clk 0:08:19]} 9... Nbd7 {[%clk 0:09:31.8]} 10. Re1+ {[%clk 0:08:15.7]} 10... Be7 {[%clk 0:09:28.7]} 11. d6 {[%clk 0:08:09.5]} 11... cxd6 {[%clk 0:09:26.9]} 12. Qxb7 {[%clk 0:08:01.3]} 12... Rb8 {[%clk 0:09:24.5]} 13. Qxb8# {[%clk 0:07:48.8]} 1-0
 
